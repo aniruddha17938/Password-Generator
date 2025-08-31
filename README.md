@@ -1,2 +1,2 @@
 # Password-Generator
-HTML, CSS, JS project 8
+Random Password generator made using HTML, CSS, and JS
